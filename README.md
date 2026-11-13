@@ -1,11 +1,10 @@
 # 🐳 Coleção de Dockerfiles e Stacks Compose
 
 <div align="center">
-
-[![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
-**Imagens base personalizadas e receitas Docker Compose para provisionamento ágil de ambientes de desenvolvimento.**
-
+  <p>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  </p>
+  <p><strong>Imagens base personalizadas e receitas Docker Compose para provisionamento ágil de ambientes de desenvolvimento.</strong></p>
 </div>
 
 ---
