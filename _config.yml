@@ -1,0 +1,5 @@
+theme: jekyll-theme-slate
+title: "📦 Dockerfiles e Compose — Prof. Ed"
+description: "Coleção de receitas Docker, compose files e ambientes de infraestrutura para desenvolvimento."
+kramdown:
+  parse_block_html: true
